@@ -22,7 +22,7 @@ To run this application, you need the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chat-application.git
+git clone https://github.com/TanushreeBorase/chat-application.git
 cd chat-application
 ```
 
@@ -48,7 +48,7 @@ The server will start and listen for incoming client connections on **localhost 
 python client.py
 ```
 
-4. You will be prompted to enter a **nickname**. After entering your nickname, you will be connected to the server and can start chatting.
+4. You will be prompted to enter a nickname. After entering your nickname, you will be connected to the server and can start chatting.
 
 To add more clients, repeat these steps in additional terminal windows.
 
@@ -85,6 +85,7 @@ Here’s how the chat works:
 
 - **Commands** like `/list` to see all online users or `/quit` to leave the chat.
 
+Output Screensshots: 
 
 ![image](https://github.com/user-attachments/assets/9526c9fb-e611-421f-8f0b-d38fab32b3d8)
 
